@@ -1,0 +1,11 @@
+{
+  "name": "solarsystem",
+  "version": "1.0.0",
+  "description": "test site to practice using ajax calls from json data and npm packages",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sarah porzig",
+  "license": "ISC"
+}
